@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+(Images/Oluwapeluwa-CloudSecurity-WithELK.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the elk.yml file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -64,7 +64,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+(Images/docker_ps_output.png) Note: I unfortunately, do not have a screenshot from running docker ps on my VM. I thought I had the screenshot saved but I do not and all the data on Azure has been deleted.
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines: 10.0.0.5 and 10.0.0.6
