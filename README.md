@@ -49,7 +49,7 @@ A summary of the access policies in place can be found in the table below.
 | Jump Box | No                  | 92.246.200.251        |
 | Elk VM   | Yes                 | 92.246.200.251        |
 | Web 1    | No                  | 10.0.0.4              |
-| Web 2    | No                  | 10.0.0.5              |
+| Web 2    | No                  | 10.0.0.4              |
 
 ### Elk Configuration
 
